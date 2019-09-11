@@ -38,6 +38,8 @@ function addZero(n){
     return n;
 }
 
+
+//&& is a way to declare to conditions at once 
 function standardTime(h){
     if (h > 0 && h <= 12){
         ap  = "AM"
